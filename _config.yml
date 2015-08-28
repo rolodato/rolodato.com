@@ -1,0 +1,15 @@
+# Site settings
+title: Rodrigo López Dato
+email: rlopezdato@gmail.com
+description:: "Personal website of Rodrigo López Dato (@rolodato)."
+repo: "https://github.com/rolodato/rolodato.github.io"
+pgp: "/key.asc"
+otr: "/otr.txt"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://rolodato.com" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
+gems:
+  - jekyll-sitemap
