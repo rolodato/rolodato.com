@@ -2,7 +2,7 @@
 title: Rodrigo López Dato
 email: rolodato@rolodato.com
 description:: "Personal website of Rodrigo López Dato (@rolodato)."
-repo: "https://github.com/rolodato/rolodato.github.io"
+repo: "https://gitlab.com/rolodato/rolodato.gitlab.io"
 pgp: "/key.asc"
 otr: "/otr.txt"
 baseurl: "" # the subpath of your site, e.g. /blog/
