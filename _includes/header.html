@@ -14,9 +14,7 @@
       </a>
 
       <div class="trigger">
-        <a class="page-link" href="{{ 'feed.xml' | prepend: site.baseurl }}">RSS</a>
-        <a class="page-link" href="{{ site.pgp }}" title="9CDB FF52 3167 ABE1 A74A  6627 1294 A205 CA80 FEFA">PGP</a>
-        <a class="page-link" href="{{ site.otr }}">OTR</a>
+        <a class="page-link" href="/feed.xml">RSS</a>
         {% for page in site.pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>

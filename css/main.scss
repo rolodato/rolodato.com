@@ -3,8 +3,8 @@
 @charset "utf-8";
 
 $base-font-family: Liberation Serif, DejaVu Serif, Bitstream Vera Serif, serif;
-$base-font-size:   19px;
-$small-font-size:  $base-font-size * 0.875;
+$base-font-size:   20px;
+$small-font-size:  $base-font-size * 0.95;
 $base-line-height: 1.5;
 
 $spacing-unit:     30px;
@@ -18,7 +18,7 @@ $grey-color-light: lighten($grey-color, 40%);
 $grey-color-dark:  darken($grey-color, 25%);
 
 $on-palm:          600px;
-$on-laptop:        800px;
+$on-laptop:        900px;
 
 @mixin media-query($device) {
     @media screen and (max-width: $device) {
