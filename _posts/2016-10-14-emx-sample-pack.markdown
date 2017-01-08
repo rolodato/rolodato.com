@@ -5,9 +5,9 @@ title: Korg EMX Sample Pack
 
 Download all 207 PCM drum samples from a Korg EMX in 16-bit stereo WAV format:
 
-* [0% tube gain](/korg-emx-sample-pack.zip) ([sig](/korg-emx-sample-pack.zip.sig))
-* [50% tube gain](/korg-emx-sample-pack-50tube.zip) ([sig](/korg-emx-sample-pack-50tube.zip.sig))
-* [100% tube gain](/korg-emx-sample-pack-100tube.zip) ([sig](/korg-emx-sample-pack-100tube.zip.sig))
+* [0% tube gain](/korg-emx-sample-pack.zip)
+* [50% tube gain](/korg-emx-sample-pack-50tube.zip)
+* [100% tube gain](/korg-emx-sample-pack-100tube.zip)
 
 I recorded a long file of manually playing each sample one after the other, with some silence in between to ensure I didn't cut off the samples early.
 The packs with tube gain were recorded [using a ChucK script to automatically switch between samples](https://github.com/rolodato/sample-pack-generator), with the tubes already warmed up for over an hour.
