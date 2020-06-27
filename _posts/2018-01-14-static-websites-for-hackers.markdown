@@ -3,6 +3,8 @@ layout: post
 title: Free static websites with SSL for hackers
 ---
 
+> Note: [GitLab Pages now fully integrate with Let's Encrypt](https://docs.gitlab.com/ee/user/project/pages/custom_domains_ssl_tls_certification/lets_encrypt_integration.html), making this post obsolete.
+
 This post describes a recipe for setting up a static website for free with these features:
 
 * Custom domains
