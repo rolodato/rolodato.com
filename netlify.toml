@@ -1,0 +1,3 @@
+[build.environment]
+  # Evita que mise compile Ruby desde el código fuente (usa binarios precompilados)
+  MISE_RUBY_COMPILE = "false"
